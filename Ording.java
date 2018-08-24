@@ -254,7 +254,7 @@ public class Ording {
 			num=input.nextInt();
 			}
 		}while(num==0);
-		System.out.println("谢谢使用，欢迎下次光临！");
+		System.out.println("谢谢您的使用，欢迎下次光临！");
 		
 		
 		
